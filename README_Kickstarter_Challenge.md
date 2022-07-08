@@ -10,7 +10,11 @@ The purpose of this project was to provide Louise, an individual who is looking 
 
 ### Analysis of Outcomes Based on Launch Date
 
-Kickstarter analysis of outcomes based on launch date was conducted using the data obtained from file named Kickstarter_Challenge.xlsx.  The spreadsheet contains the following relevant data on Kickstarter campaigns:
+Kickstarter analysis of outcomes based on launch date was conducted using the data obtained from file named Kickstarter_Challenge.xlsx which can be reached via the following link: 
+
+(https://github.com/jbowman86/kickstarter-analysis/raw/main/Kickstarter_Challenge_Jordan_Bowman.xlsx.zip)
+
+The relevant data on Kickstarter campaigns from this spreadsheet include:
 
 1. Funding Goal (Column D)
 2. Outcomes: listed as successful, failed, live, and canceled (Column F)
